@@ -1,8 +1,8 @@
 {
-    "token": "BOT TOKEN HERE",
-    "clientId": "BOT CLIENT ID HERE",
-    "mainServer": "INSERT MAIN SERVER ID HERE",
-    "syncedServers": ["INSERT SYNCED SERVER ID HERE", "INSERT ADDITIONAL SYNCED SERVER ID HERE"],
-    "commanderRole": "Role NAME of users who you want to let add/remove roles for example Admin",
-    "logChannelId": "INSERT LOG CHANNEL ID HERE (must be in server 1)"
+    "token": "OTQxMjg5MDYwNTkxMzUzODc2.YgTxwA.hZIOrkaA_HLU-oJx9SXzp4B1VAE",
+    "clientId": "941289060591353876",
+    "mainServer": "920365637975572490",
+    "syncedServers": ["941267211719434270", "INSERT ADDITIONAL SYNCED SERVER ID HERE"],
+    "commanderRole": "Zuschauer",
+    "logChannelId": "921306839776366632)"
 }
